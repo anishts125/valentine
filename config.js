@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://drive.google.com/file/d/1QvEQsR6MVY7XbDSnmBuwyhW2tBwCGCAX/view?usp=sharing", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dojnoaueb/video/upload/v1770965903/Aayiram_kannumay_Remastering_Nokketha_Doorathu_Kannum_Nattu_K_S_Chithra_Bichu_Thirumala_128k_vr3scg.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
